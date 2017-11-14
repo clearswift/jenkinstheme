@@ -1,3 +1,9 @@
 #header {
     background-color: #A00000;
+    #jenkins-name-icon {
+        width:0px;
+        height:0px;
+        padding: 15px;
+        background: url(https://raw.githubusercontent.com/icotton/SimpleJenkinsThemes/master/TestJenkins.png);
+    }
 }

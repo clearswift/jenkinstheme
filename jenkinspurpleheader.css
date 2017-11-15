@@ -1,3 +1,10 @@
 #header {
     background-color: rgb(127, 0, 255);
 }
+
+#jenkins-name-icon {
+    width:139px;
+    height:34px;
+    padding-left: 139px;
+    background: url(https://rawgit.com/icotton/SimpleJenkinsThemes/master/PreprodJenkins.png);
+}
